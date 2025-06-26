@@ -1,0 +1,21 @@
+.body-papelaria-cultura {
+    background-color: #00a2ea;
+    margin: auto;
+}
+
+.p-papelaria-cultura {
+    text-align: justify;
+    width: 300px;
+    font-size: 18px;
+}
+
+.li-lista-papelaria-cultura li {
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5); /* Sombra externa */
+    box-shadow: inset 2px 2px 4px rgba(0, 0, 0, 0.2), inset -2px -2px 4px rgba(255, 255, 255, 0.7); /* Sombra interna para o alto relevo */
+    color: #333; /* Cor do texto */
+    padding: 8px 10px; /* Espaçamento interno */
+    border-radius: 15px 0 0 15px; /* apenas o lado esquerdo arredondado */
+    background-color: #f0f0f0; /* Cor de fundo */
+    margin-bottom: 7px;
+    line-height: 1.8;
+}
