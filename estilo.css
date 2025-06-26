@@ -19,3 +19,8 @@
     margin-bottom: 7px;
     line-height: 1.8;
 }
+
+div h1 {
+    width: 100%;
+    text-align: center;
+}
